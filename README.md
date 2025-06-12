@@ -2,29 +2,31 @@
 
 Welcome to **Git & GitHub for Absolute Beginners** - a complete hands-on course designed to help you learn version control using Git and GitHub from scratch. Whether you're a student, job seeker, career switcher, or coding enthusiast, this course will give you practical skills to work confidently with Git and contribute to real-world projects.
 
----
+<br>
 
 ## What You'll Learn
 
-### Git Fundamentals
+### Day 01 - Git Fundamentals
 - What is Version Control?
 - Key Git Terminology
 - Installing & Configuring Git
 - Creating Repositories
 - Understanding Commits
 
-### Working with Git
+### Day 02 to Day 04 - Working with Git
 - Cloning Repos
 - Git Status, Diff & Log
 - Branching, Merging, and Conflict Resolution
 - Undoing Changes (reset, revert, amend)
 - Ignoring Files using `.gitignore`
 
-### GitHub Workflow
+### Day 05 to Day 08 - GitHub Workflow
 - Pushing and Pulling Code
 - Forking & Creating Pull Requests
 - Open Source Contributions
 - GitHub Collaboration Workflow
+
+<br>
 
 ## Who This Course is For
 
@@ -33,16 +35,21 @@ Welcome to **Git & GitHub for Absolute Beginners** - a complete hands-on course 
 - Anyone curious about how developers manage code
 - **No prior coding or Git experience required!**
 
+<br>
+
 ## Tools Used
 - Git (Command Line)
 - GitHub (Web)
 - VS Code (Optional)
 - Terminal/Command Prompt
 
+<br>
+
 ## Contribution
 
 This repository is designed for learning. Feel free to fork, use, and contribute if you'd like to improve the course or add more examples.
 
+<br>
 
 ## 🤝 Let's Connect!
 
