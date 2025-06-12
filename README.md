@@ -26,16 +26,6 @@ Welcome to **Git & GitHub for Absolute Beginners** - a complete hands-on course 
 - Open Source Contributions
 - GitHub Collaboration Workflow
 
-
-## Course Structure
-
-This course is divided into bite-sized lessons with:
-- Clear explanations
-- Real-world examples
-- Hands-on exercises
-- Git commands breakdown
-- Visual walkthroughs
-
 ## Who This Course is For
 
 - Absolute beginners to Git & GitHub
