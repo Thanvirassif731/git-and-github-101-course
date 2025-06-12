@@ -1,6 +1,6 @@
 # Git & GitHub for Absolute Beginners | 101 Course
 
-Welcome to **Git & GitHub for Absolute Beginners** — a complete hands-on course designed to help you learn version control using Git and GitHub from scratch. Whether you're a student, job seeker, career switcher, or coding enthusiast, this course will give you practical skills to work confidently with Git and contribute to real-world projects.
+Welcome to **Git & GitHub for Absolute Beginners** - a complete hands-on course designed to help you learn version control using Git and GitHub from scratch. Whether you're a student, job seeker, career switcher, or coding enthusiast, this course will give you practical skills to work confidently with Git and contribute to real-world projects.
 
 ---
 
